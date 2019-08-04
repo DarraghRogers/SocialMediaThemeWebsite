@@ -1,0 +1,14 @@
+{
+  "name": "socialmediathemewebsite",
+  "version": "1.0.0",
+  "description": "Social Media Theme Site",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Darragh Rogers",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
